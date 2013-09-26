@@ -1,0 +1,107 @@
+[[ REQUEST ]]
+
+
+GET /dyn-css/authorization.css?targetBlogID=4621671952984707618&zx=58c36080-e2b6-41a3-98f5-50e5f937ad7f%22/%3E HTTP/1.1
+=>method HTTP digunakan sebagian besar untuk meminta resource tertentu dari server
+
+------------------------------------------------------------------------------------------------------------------------
+
+Host: www.blogger.com
+=>Host adalah nama komputer. Pemberian nama ini spesifik, untuk satu komputer tertentu saja dalam suatu jaringan.
+
+-------------------------------------------------------------------------------------------------------------------
+
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:23.0) Gecko/20100101 Firefox/23.0
+=> User Agent biasa disingkat dengan UA merupakan identitas dari browser yang sedang digunakan.
+
+------------------------------------------------------------------------------------------------
+
+Accept: text/css,*/*;q=0.1
+=> server menerima text css
+
+-------------------------------
+
+Accept-Language: en-US,en;q=0.5
+=> server menerima bahasa "english-United Stated
+
+------------------------------------------------
+
+Accept-Encoding: gzip, deflate
+=>untuk menerima pengkodean gzip, deflate dan permintaan HTTP.
+
+------------------------------------------------------------------
+
+Referer: http://asfiyuli.blogspot.com/
+=> URL konten yang merujuk/menghantarkan kepada alamat blog kita.
+
+-------------------------------------------------------------------
+
+Cookie: blogger_TID=85481a28e6d5df9b; __utma=150635877.1844315116.1378262219.1379926152.1379979050.7; __utmz=150635877.1378819220.5.5.utmcsr=sastraindonesiaoke.blogspot.com|utmccn=(referral)|utmcmd=referral|utmcct=/2012/09/pengertian-frasa-dan-klausa_87.html; PREF=ID=67a93d1d0a8cb8f5:U=92b0ebc9a1b9250c:TM=1378819225:LM=1378820985:S=lYT8BYjIxe_4nK9l; NID=67=gltyFsOqhVr1FR710HO1YznWyxVQGCsRBqrscctTzQLBHFHsmQnjNho1ntWYMTk4CeCh4Je5J0H0Nfja9cZnzBKVrjokpAmBtmTovSq8amstTVNczAiomCcBzFD6Tji1; blogger_SID=DQAAAMcAAAC28jy0ns-nnGQQtiKFWoTXpS-lhGEr10TZk5uAnX09WBF4tHnecIs_BctBYmIUolMwbu2KwWsBjUvTAZtMk-nebmUPyB7CS_rqE8dLw9PAAas_hJX47K4McOi8yyvvAKzkcO-xeykOh0ju_CGhnQSq503-WeeSau0IBcAiCLYUBdcvP5GLBdNCDBv06eCw_zNpOOOT7gyAIlrN7K4tdEY4VC9CcjE5yuGvppBmajs0XrYXbpy-tnPP5_2oNoVLsUiE54KCrYo7mgRUXfxBBy9Y; blogger_TID=b25151f06a2c2baa
+=> cookie merupakan serangkaian teks yang disimpan pada komputer anda oleh situs web yang telah anda kunjungi
+
+--------------------------------------------------------------------------------------------------------------
+
+Connection: keep-alive
+=> koneksi yang bisa diakses
+
+--------------------------------
+
+If-Modified-Since: Wed, 25 Sep 2013 07:36:04 GMT
+
+[[ RESPON ]]
+
+HTTP/1.1 200 OK
+=>server merespon permintaan User, dan disetujui
+
+-----------------------------------------------------
+
+p3p: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+
+Content-Type: text/css; charset=UTF-8
+=>Type Content berupa text css
+
+--------------------------------------
+
+Cache-Control: private, max-age=1800
+=>Cache-control adalah hal yang perlu digaris bawahi para administrator proxy server
+
+------------------------------------
+
+Pragma: no-cache
+
+Expires: Wed, 25 Sep 2013 07:37:06 GMT
+=>masa aktif pengaksesan blog
+
+---------------------------------------------
+
+Date: Wed, 25 Sep 2013 07:37:06 GMT
+=>waktu user saat mengakses sebuah halaman blog(web)
+
+------------------------------------------------------
+
+Last-Modified: Wed, 25 Sep 2013 07:37:06 GMT
+=>masa sebelum pengaksesan halaman web yang sama
+
+-------------------------------------------------------
+
+Content-Encoding: gzip
+
+=>konten pengkodean zip
+
+X-Content-Type-Options: nosniff
+
+X-Frame-Options: SAMEORIGIN
+
+X-XSS-Protection: 1; mode=block
+
+Content-Length: 21
+=>panjang konten halaman web
+
+
+Server: GSE
+=>servernya berupa GSE
+
+------------------------
+
+Alternate-Protocol: 80:quic
+=>pengubah protokol
